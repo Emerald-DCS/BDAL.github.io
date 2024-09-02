@@ -3,11 +3,10 @@ title: "Efficient Approximation of Gromov-Wasserstein Distance Using Importance 
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-Efficient_Approximation_of-number-1
-excerpt: ''
+excerpt: 'Mengyu Li, Jun Yu, Hongteng Xu, Cheng Meng'
 date: 2022-01-01
 venue: 'Journal of Computational and Graphical Statistics'
 paperurl: 'https://arxiv.org/pdf/2205.13573'
-Author: 'Mengyu Li, Jun Yu, Hongteng Xu, Cheng Meng'
 
 ---
 
