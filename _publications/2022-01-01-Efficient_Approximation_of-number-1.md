@@ -2,9 +2,9 @@
 title: "Efficient Approximation of Gromov-Wasserstein Distance Using Importance Sparsification"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-1-1-Efficient_Approximation_of_Gromov_Wasserstein-number-1
+permalink: /publication/2022-01-01-Efficient_Approximation_of-number-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2022-1-1
+date: 2022-01-01
 venue: 'Journal of Computational and Graphical Statistics'
 paperurl: 'https://arxiv.org/pdf/2205.13573'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
