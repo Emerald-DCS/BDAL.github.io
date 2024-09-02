@@ -277,7 +277,16 @@ defaults:
     values:
       layout: talk
       author_profile: true
+      share: 
+  # _reward
+  - scope:
+      path: ""
+      type: reward
+    values:
+      layout: single
+      author_profile: true
       share: true
+      comments: true
 
 
 # Sass/SCSS
