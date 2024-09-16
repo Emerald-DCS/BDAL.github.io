@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Rewards"
+    url: /rewards/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -25,3 +25,6 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+    - title: "Fundings"
+    url: /fundings/
