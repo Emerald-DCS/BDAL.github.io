@@ -1,12 +1,13 @@
 ---
-title: "Modern Subsampling Methods for Large-Scale Least Squares Regression"
+title: "Nonparametric additive models for billion observations(In press)"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-Modern_Subsampling_Methods-number-3
-excerpt: 'Tao Li, Cheng Meng'
-date: 2022-01-01
-venue: 'International Journal of Cyber-Physical Systems (IJCPS), 2021'
-paperurl: 'https://www.igi-global.com/article/modern-subsampling-methods-for-large-scale-least-squares-regression/280467'
+permalink: /publication/2024-01-01-Nonparametric_additive_models-number-9
+excerpt: 'Mengyu Li, Jingyi Zhang, Cheng Meng '
+date: 2024-01-01
+venue: 'Journal of Computational and Graphical Statistics'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319684'
+
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

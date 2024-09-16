@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2022-01-01-Efficient_Approximation_of-number-1
 excerpt: 'Mengyu Li, Jun Yu, Hongteng Xu, Cheng Meng'
 date: 2022-01-01
-venue: 'Journal of Computational and Graphical Statistics'
-paperurl: 'https://arxiv.org/pdf/2205.13573'
+venue: 'Statistica Sinica'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2165500'
 
 ---
 

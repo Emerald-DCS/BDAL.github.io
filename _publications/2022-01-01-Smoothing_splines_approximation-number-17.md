@@ -1,12 +1,12 @@
 ---
-title: "Efficient Approximation of Gromov-Wasserstein Distance Using Importance Sparsification"
+title: "Smoothing splines approximation using Hilbert curve basis selection"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-Efficient_Approximation_of-number-1
-excerpt: 'Mengyu Li, Jun Yu, Hongteng Xu, Cheng Meng'
+permalink: /publication/2022-01-01-Smoothing_splines_approximation-number-17
+excerpt: 'Cheng Meng, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma'
 date: 2022-01-01
 venue: 'Journal of Computational and Graphical Statistics'
-paperurl: 'https://arxiv.org/pdf/2205.13573'
+paperurl: 'https://chengzijunaixiaoli.github.io/files/HBS.pdf'
 
 ---
 

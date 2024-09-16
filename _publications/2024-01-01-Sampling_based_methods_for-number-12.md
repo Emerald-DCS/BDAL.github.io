@@ -1,12 +1,12 @@
 ---
-title: "Efficient Approximation of Gromov-Wasserstein Distance Using Importance Sparsification"
+title: "Sampling-based methods for multi-block optimization problems over transport polytopes(In press)"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-Efficient_Approximation_of-number-1
+permalink: /publication/2024-01-01-Sampling_based_methods_for-number-12
 excerpt: 'Mengyu Li, Jun Yu, Hongteng Xu, Cheng Meng'
-date: 2022-01-01
-venue: 'Journal of Computational and Graphical Statistics'
-paperurl: 'https://arxiv.org/pdf/2205.13573'
+date: 2024-01-01
+venue: 'Mathematics of Computation'
+paperurl: 'https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/'
 
 ---
 

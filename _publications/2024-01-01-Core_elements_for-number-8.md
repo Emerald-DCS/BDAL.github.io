@@ -1,12 +1,12 @@
 ---
-title: "Efficient Approximation of Gromov-Wasserstein Distance Using Importance Sparsification"
+title: "Core-elements for large-scale least squares estimation(In press)"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-Efficient_Approximation_of-number-1
-excerpt: 'Mengyu Li, Jun Yu, Hongteng Xu, Cheng Meng'
-date: 2022-01-01
-venue: 'Journal of Computational and Graphical Statistics'
-paperurl: 'https://arxiv.org/pdf/2205.13573'
+permalink: /publication/2024-01-01-Core_elements_for-number-8
+excerpt: 'Mengyu Li, Jun Yu, Tao Li, Cheng Meng'
+date: 2024-01-01
+venue: 'Journal of Statistics and Computings'
+paperurl: 'https://arxiv.org/abs/2206.10240'
 
 ---
 
