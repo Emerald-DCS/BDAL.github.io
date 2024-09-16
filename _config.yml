@@ -215,13 +215,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  rewards:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:collection/:path/
-  rewards:
     output: true
     permalink: /:collection/:path/
   fundings:
@@ -267,10 +264,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _rewards
   - scope:
       path: ""
-      type: portfolio
+      type: rewards
     values:
       layout: single
       author_profile: true
@@ -284,15 +281,6 @@ defaults:
       layout: talk
       author_profile: true
       share: 
-  # _rewards
-  - scope:
-      path: ""
-      type: rewards
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _fundings
   - scope:
       path: ""
