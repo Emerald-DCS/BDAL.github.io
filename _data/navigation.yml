@@ -26,5 +26,5 @@ main:
   - title: "Guide"
     url: /markdown/
 
-    - title: "Fundings"
-    url: /fundings/
+  - title: "Fundings"
+  url: /fundings/
