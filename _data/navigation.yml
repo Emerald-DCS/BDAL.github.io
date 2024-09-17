@@ -17,8 +17,8 @@ main:
   - title: "Rewards"
     url: /rewards/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "students"
+    url: /students/
     
   - title: "CV"
     url: /cv/

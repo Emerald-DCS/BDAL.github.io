@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Basic Information"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
