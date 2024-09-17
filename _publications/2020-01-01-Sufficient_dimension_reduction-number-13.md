@@ -1,7 +1,7 @@
 ---
 title: "Sufficient dimension reduction for classification using principal optimal transport direction"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2020-01-01-Sufficient_dimension_reduction-number-13
 excerpt: 'Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, Wenxuan Zhong'
 date: 2020-01-01
