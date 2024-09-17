@@ -1,3 +1,10 @@
+---
+title: "Students"
+venue: "Renmin University of China, Institute of Statistics and Big Data"
+permalink: /students/students1
+location: ""
+---
+
 ## Graduate Students
 
 - Haotian Liu (CS, PhD 2024-Now)
