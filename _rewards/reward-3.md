@@ -6,5 +6,5 @@ categories: rewards  # 类别，使用 rewards 以便归档
 permalink: /rewards/reward-3/  # 可选，手动设置URL
 ---
 
-## 奖励简介
+## 简介
 这是国内培养的博士生首次在图像统计分会获得“学生论文奖”。这一奖项每年共有五个名额。
