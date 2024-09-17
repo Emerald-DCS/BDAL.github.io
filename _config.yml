@@ -21,7 +21,7 @@ repository               : "emerald-dcs/bdal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "homepage.jpg"
   name             : "BDAL LAB"
   pronouns         : # example: "she/her"  
   bio              : "Where Ideas Meet Action"
