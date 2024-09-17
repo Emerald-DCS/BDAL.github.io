@@ -17,14 +17,16 @@ main:
   - title: "Rewards"
     url: /rewards/
         
-  - title: "students"
-    url: /students/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
-
   - title: "Fundings"
     url: /fundings/
+
+  - title: "Students"
+    url: /students/
+    
+  #- title: "CV"
+  #  url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/
+
+
