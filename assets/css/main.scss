@@ -44,19 +44,18 @@
 .archive__item-title a {
     font-size: 20px;  /* 根据需要调整大小 */
     font-weight: bold;  /* 可选：调整字体的粗细 */
-    color: #66828E;  /* 保持灰色链接 */
+    color: #BECBD3;  /* 保持灰色链接 */
   }
 
-/* 针对Download Paper链接的样式修改 */
-.archive_item-paperurl a{
-  color: #66828E;  /* 使用图中颜色 */
+a[href$=".pdf"] {
+    color: #66828E !important;  /* 统一修改所有指向PDF的链接颜色 */
 }
 
 a[href*="Github"] {
-  color: #66828E;  /* 使用你想要的颜色 */
+  color: #66828E !important;  /* 使用你想要的颜色 */
 }
 
 
 a[href*="Google scholar"] {
-  color: #66828E;  /* 使用你想要的颜色 */
+  color: #66828E !important;  /* 使用你想要的颜色 */
 }
