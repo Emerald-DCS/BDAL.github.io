@@ -2,7 +2,7 @@
 title: "Large-scale optimal transport map estimation using projection pursuit"
 collection: publications
 category: conferences
-permalink: /publication/2019-01-01-Large_scale_optimal-number-15
+permalink: 'https://proceedings.neurips.cc/paper/2019/hash/4bbbe6cb5982b9110413c40f3cce680b-Abstract.html'
 excerpt: '<u>Cheng Meng</u>, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong, Ping Ma'
 date: 2019-01-01
 venue: 'NeurIPS'

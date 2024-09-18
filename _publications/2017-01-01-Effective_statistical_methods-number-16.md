@@ -2,7 +2,7 @@
 title: "Effective statistical methods for big data analytics"
 collection: publications
 category: manuscripts
-permalink: /publication/2017-01-01-Effective_statistical_methods-number-16
+permalink: 'https://www.igi-global.com/chapter/effective-statistical-methods-for-big-data-analytics/181110'
 excerpt: '<u>Cheng Meng</u>, Ye Wang, Xinlian Zhang, Abhyuday Mandal, Wenxuan Zhong, Ping Ma'
 date: 2017-01-01
 venue: 'Handbook of Research on Applied Cybernetics and Systems Science'
