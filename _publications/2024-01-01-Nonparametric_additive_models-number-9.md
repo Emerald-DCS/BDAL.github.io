@@ -3,7 +3,7 @@ title: "Nonparametric additive models for billion observations(In press)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-Nonparametric_additive_models-number-9
-excerpt: 'Mengyu Li, Jingyi Zhang, Cheng Meng '
+excerpt: '<u>Mengyu Li</u>, Jingyi Zhang, <u>Cheng Meng</u> '
 date: 2024-01-01
 venue: 'Journal of Computational and Graphical Statistics'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319684'

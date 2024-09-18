@@ -3,7 +3,7 @@ title: "Core-elements for large-scale least squares estimation(In press)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-Core_elements_for-number-8
-excerpt: 'Mengyu Li, Jun Yu, Tao Li, Cheng Meng'
+excerpt: '<u>Mengyu Li</u>, Jun Yu, <u>Tao Li</u>, <u>Cheng Meng</u>'
 date: 2024-01-01
 venue: 'Journal of Statistics and Computings'
 paperurl: 'https://arxiv.org/abs/2206.10240'

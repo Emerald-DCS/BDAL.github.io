@@ -3,7 +3,7 @@ title: "More efficient computation of smoothing splines via space-filling basis 
 collection: publications
 category: manuscripts
 permalink: /publication/2020-01-01-More_efficient_computation-number-14
-excerpt: 'Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma'
+excerpt: '<u>Cheng Meng</u>, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma'
 date: 2020-01-01
 venue: 'Biometrika'
 paperurl: 'https://chengzijunaixiaoli.github.io/files/Biometrika.pdf'

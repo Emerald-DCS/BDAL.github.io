@@ -3,7 +3,7 @@ title: "Associations of urinary perchlorate, nitrate andthiocyanate with central
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-Associations_of_urinary-number7.md
-excerpt: 'Lei King, Yue Huang, Tao Li, Qiang Wang, Wanyi Li, Zhilei Shan, Jiawei Yin, Liangkai Chen, Pei Wang, Changchang Dun, Litao Zhuang, Xiaolin Peng, Liegang Liu
+excerpt: 'Lei King, Yue Huang, <u>Tao Li</u>, Qiang Wang, Wanyi Li, Zhilei Shan, Jiawei Yin, Liangkai Chen, Pei Wang, Changchang Dun, Litao Zhuang, Xiaolin Peng, Liegang Liu
 date: 2022-01-01
 venue: 'EnvironmentInternational'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0160412022001751'
