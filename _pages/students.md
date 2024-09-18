@@ -5,14 +5,14 @@ title: "Students"
 author_profile: true  # 可选，视需要是否显示作者信息
 ---
 
-## Graduate Students
+## Graduated Students
 
 - Tao Li (PhD, 2019-2024, China Galaxy Securities)
 - Xitong Wei(MS, 2020-2022, Meituan)
 - Dianjun Lin(MS, 2020-2022, PhD student at  The Pennsylvania State University )
 - Xin Wang(MS, 2020-2022, PhD student at University of Washington )
 
-## Undergraduate and Graduate Internships
+## Graduate Research Assistants
 
 - Mengyu Li (PhD, 2020-Now)
 - Xinlai Kang (PhD, 2021-Now)

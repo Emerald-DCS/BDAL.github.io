@@ -7,6 +7,7 @@ excerpt: 'Mengyu Li, Jun Yu, Hongteng Xu, Cheng Meng'
 date: 2024-01-01
 venue: 'Mathematics of Computation'
 paperurl: 'https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 
 ---
 

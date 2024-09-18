@@ -30,4 +30,4 @@ Content information
 ======
 - **Address:** 710 Chondde Xi Building, Haidian, Beijing, China
 
-- **Email:** mengcheng@ruc.edu.cn
+- **Email:** chengmeng at ruc dot edu dot cn
