@@ -7,14 +7,14 @@ author_profile: true  # 可选，视需要是否显示作者信息
 
 ## Graduated Students
 
-- Tao Li (PhD, 2019-2024, China Galaxy Securities)
+- Tao Li (PhD, 2019-2024, China Galaxy Securities, [Github](https://github.com/sherlockLitao))
 - Xitong Wei(MS, 2020-2022, Meituan)
 - Dianjun Lin(MS, 2020-2022, PhD student at  The Pennsylvania State University )
 - Xin Wang(MS, 2020-2022, PhD student at University of Washington )
 
 ## Graduate Research Assistants
 
-- Mengyu Li (PhD, 2020-Now)
+- Mengyu Li (PhD, 2020-Now, [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=hPWnWK0AAAAJ))
 - Xinlai Kang (PhD, 2021-Now)
 - Jun Zhu (PhD, 2022-Now)
 - Junlie Huang (PhD, 2022-Now)
