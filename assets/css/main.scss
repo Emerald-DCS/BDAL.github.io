@@ -47,15 +47,6 @@
     color: #BECBD3;  /* 保持灰色链接 */
   }
 
-a[href$=".pdf"] {
-    color: #66828E !important;  /* 统一修改所有指向PDF的链接颜色 */
-}
-
-a[href*="Github"] {
-  color: #66828E !important;  /* 使用你想要的颜色 */
-}
-
-
-a[href*="Google scholar"] {
-  color: #66828E !important;  /* 使用你想要的颜色 */
+.archive__item a[href$=".pdf"] {
+    color: #66828E !important;  /* 统一设置颜色 */
 }
