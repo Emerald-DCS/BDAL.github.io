@@ -2,11 +2,11 @@
 title: "Smoothing splines approximation using Hilbert curve basis selection"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-Smoothing_splines_approximation-number-17
+permalink: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2002161'
 excerpt: '<u>Cheng Meng</u>, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma'
 date: 2022-01-01
 venue: 'Journal of Computational and Graphical Statistics'
-paperurl: 'https://chengzijunaixiaoli.github.io/files/HBS.pdf'
+paperurl: '/bdal.github.io/files/Smoothing splines approximation.pdf'
 
 ---
 

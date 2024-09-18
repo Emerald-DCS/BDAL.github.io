@@ -2,11 +2,11 @@
 title: "A Hausdorff regression paradigm for interval privacy"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-A_Hausdorff_regression-number-10
+permalink: 'https://ieeexplore.ieee.org/abstract/document/10365205'
 excerpt: '<u>Xinlai Kang</u>, <u>Mengyu Li</u>, Xuqiang Chen, Fangyu Li, <u>Cheng Meng</u>'
 date: 2023-01-01
 venue: 'IEEE Signal Processing Letters'
-paperurl: 'https://ieeexplore.ieee.org/document/10365205'
+paperurl: '/bdal.github.io/files/A Hausdorff Regression.pdf'
 
 ---
 

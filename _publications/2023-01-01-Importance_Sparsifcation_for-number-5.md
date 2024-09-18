@@ -2,11 +2,11 @@
 title: "Importance Sparsifcation for Sinkhorn Algorithm."
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-Importance_Sparsifcation_for-number-5
+permalink: 'https://www.jmlr.org/papers/v24/22-1311.html'
 excerpt: '<u>Mengyu Li</u>, Jun Yu, <u>Tao Li</u>, and <u>Cheng Meng</u>'
 date: 2023-01-01
 venue: 'Journal of Machine Learning Research'
-paperurl: 'https://www.jmlr.org/papers/volume24/22-1311/22-1311.pdf'
+paperurl: '/bdal.github.io/files/Importance Sparsifcation for.pdf'
 
 ---
 

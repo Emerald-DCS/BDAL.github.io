@@ -2,11 +2,11 @@
 title: " Communication-efficient distributed linear discriminant analysis for binary classificationn"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-Communication_efficient_distributed-number-11
+permalink: 'https://www.jstor.org/stable/27164210'
 excerpt: '<u>Mengyu Li</u>, Junlong Zhao'
 date: 2022-01-01
 venue: 'Statistica Sinica'
-paperurl: 'https://www3.stat.sinica.edu.tw/statistica/oldpdf/A32n308.pdf'
+paperurl: '/bdal.github.io/files/Communication-Efficient Distributed.pdf'
 
 ---
 

@@ -2,11 +2,11 @@
 title: "More efficient computation of smoothing splines via space-filling basis selection"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-01-01-More_efficient_computation-number-14
+permalink: 'https://academic.oup.com/biomet/article-abstract/107/3/723/5831923'
 excerpt: '<u>Cheng Meng</u>, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma'
 date: 2020-01-01
 venue: 'Biometrika'
-paperurl: 'https://chengzijunaixiaoli.github.io/files/Biometrika.pdf'
+paperurl: '/bdal.github.io/files/More efficient approximation.pdf'
 
 ---
 
